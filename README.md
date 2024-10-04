@@ -30,4 +30,4 @@
 
 <h2>GitHub Profile Trophy 🏆</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AryanJ2004&row=1&margin-w=40)](https://github.com/AryanJ2004)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohakbora&row=1&margin-w=40)](https://github.com/rohakbora)
